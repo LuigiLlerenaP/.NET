@@ -95,6 +95,7 @@
    En C#, hay tres formas principales de instanciar un objeto de una clase:
 */
 
+
 // Forma 1: Declarando explícitamente el tipo de la clase
 Sale sale = new Sale(100);
 
